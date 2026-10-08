@@ -19,7 +19,7 @@ Diseño **automatizaciones, integraciones, pipelines de datos y despliegues en l
 ## Impacto
 
 - ⚡ Procesos operativos de **4–5 horas a menos de 5 minutos**.
-- 🤖 De **2 operadores a 0**: hoy se ejecutan de forma automática.
+- 🤖 Ejecución **100% automática**, programada o a demanda, liberando horas del equipo para trabajo de mayor valor.
 - 🔗 **15+ integraciones y automatizaciones** en producción.
 
 ## Qué hago

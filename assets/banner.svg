@@ -18,11 +18,11 @@
   <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="64" y="86" font-size="30" font-weight="700" fill="#E6EDF3">LumiDev <tspan fill="#22D3EE" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace">&gt;_</tspan></text>
     <text x="64" y="132" font-size="16" letter-spacing="4" fill="#22D3EE" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace">&gt; AI &amp; AUTOMATION SPECIALIST</text>
-    <text x="64" y="188" font-size="40" font-weight="700" fill="#E6EDF3">Automatizo plataformas educativas</text>
-    <text x="64" y="236" font-size="40" font-weight="700" fill="#E6EDF3">con <tspan fill="url(#accent)">datos e IA.</tspan></text>
+    <text x="64" y="188" font-size="40" font-weight="700" fill="#E6EDF3">Automatizo procesos con</text>
+    <text x="64" y="236" font-size="40" font-weight="700" fill="url(#accent)">datos, cloud e IA.</text>
   </g>
   <g font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#8B98A9">
-    <text x="1136" y="268" text-anchor="end">Python · SQL · APIs · n8n · Claude Code</text>
+    <text x="1136" y="268" text-anchor="end">Python · SQL · AWS · Docker · CI/CD · IA</text>
   </g>
   <g transform="translate(880 70)" stroke="#22D3EE" stroke-width="2" fill="none" opacity="0.9">
     <rect x="0" y="0" width="200" height="34" rx="8" fill="#121821" stroke="#1E2836"/>
@@ -32,8 +32,8 @@
     <line x1="24" y1="90" x2="24" y2="112" stroke-dasharray="4 5"/>
   </g>
   <g transform="translate(880 70)" font-family="ui-monospace, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#E6EDF3">
-    <text x="16" y="22">SIS → ETL Python</text>
-    <text x="16" y="78">Blackboard REST API</text>
+    <text x="16" y="22">ETL · Python · SQL</text>
+    <text x="16" y="78">AWS · Docker · CI/CD</text>
     <text x="16" y="134">Reportes · alarmas · IA</text>
   </g>
 </svg>
